@@ -7,5 +7,5 @@
 
 # Projact's
 ## 3D Printer
-<img src="https://github.com/Ahmed-Alisha/Ahmed-Alisha/blob/main/Project%20images/2.jpg" width="450 " />
-<img src="https://github.com/Ahmed-Alisha/Ahmed-Alisha/blob/main/Project%20images/3.jpg" width="450 " />
+(https://github.com/Ahmed-Alisha/Ahmed-Alisha/blob/main/Project%20images/2.jpg)
+(https://github.com/Ahmed-Alisha/Ahmed-Alisha/blob/main/Project%20images/3.jpg)
