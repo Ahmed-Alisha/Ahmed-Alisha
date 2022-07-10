@@ -7,5 +7,5 @@
 
 # Projact's
 ## 3D Printer
-(https://github.com/Ahmed-Alisha/Ahmed-Alisha/blob/main/Project%20images/2.jpg)
-(https://github.com/Ahmed-Alisha/Ahmed-Alisha/blob/main/Project%20images/3.jpg)
+![1](https://github.com/Ahmed-Alisha/Ahmed-Alisha/blob/main/Project%20images/2.jpg)
+![2](https://github.com/Ahmed-Alisha/Ahmed-Alisha/blob/main/Project%20images/3.jpg)
