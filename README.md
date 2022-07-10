@@ -1,11 +1,9 @@
 ![ME](https://github.com/Ahmed-Alisha/Ahmed-Alisha/blob/main/Project%20images/1.jpg)
-- 👋 Hi, I’m @Ahmed-Alisha
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-# Projact's
-## 3D Printer
 ![1](https://github.com/Ahmed-Alisha/Ahmed-Alisha/blob/main/Project%20images/2.jpg)
 ![2](https://github.com/Ahmed-Alisha/Ahmed-Alisha/blob/main/Project%20images/3.jpg)
+![3](https://github.com/Ahmed-Alisha/Ahmed-Alisha/blob/main/Project%20images/4.jpg)
+![4](https://github.com/Ahmed-Alisha/Ahmed-Alisha/blob/main/Project%20images/5.jpg)
+![5](https://github.com/Ahmed-Alisha/Ahmed-Alisha/blob/main/Project%20images/6.jpg)
+![6](https://github.com/Ahmed-Alisha/Ahmed-Alisha/blob/main/Project%20images/7.jpg)
+![7](https://github.com/Ahmed-Alisha/Ahmed-Alisha/blob/main/Project%20images/8.jpg)
+![8](https://github.com/Ahmed-Alisha/Ahmed-Alisha/blob/main/Project%20images/9.jpg)
