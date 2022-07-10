@@ -1,4 +1,4 @@
-![ME]([https://github.com/Ahmed-Alisha/Ahmed-Alisha/blob/main/me.jpg](https://github.com/Ahmed-Alisha/Ahmed-Alisha/blob/main/Project%20images/1.jpg))
+![ME](https://github.com/Ahmed-Alisha/Ahmed-Alisha/blob/main/Project%20images/1.jpg)
 - 👋 Hi, I’m @Ahmed-Alisha
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -7,5 +7,5 @@
 
 # Projact's
 ## 3D Printer
-<img src="[https://github.com/Ahmed-Alisha/Ahmed-Alisha/blob/main/Project%20image's/1.JPG](https://github.com/Ahmed-Alisha/Ahmed-Alisha/blob/main/Project%20images/2.jpg)" width="450 " />
-<img src="[https://github.com/Ahmed-Alisha/Ahmed-Alisha/blob/main/Project%20image's/11.JPG](https://github.com/Ahmed-Alisha/Ahmed-Alisha/blob/main/Project%20images/3.jpg)" width="450 " />
+<img src="https://github.com/Ahmed-Alisha/Ahmed-Alisha/blob/main/Project%20images/2.jpg" width="450 " />
+<img src="https://github.com/Ahmed-Alisha/Ahmed-Alisha/blob/main/Project%20images/3.jpg" width="450 " />
